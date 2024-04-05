@@ -1,6 +1,6 @@
 # RISC-V-Assembler-and-Simulator
-Implementation of a subset of RV32I (RISC-V 32-bit integer) instruction set using simple assembler and simulator.(This was a college group project)
-
+Implementation of a subset of RV32I (RISC-V 32-bit integer) instruction set using simple assembler and simulator.
+(This was a college group project)
 
 #How to Run Sample Testcases:
 1. we have simple and hard tests both at the assembler level and simulator level.
@@ -26,7 +26,6 @@ Format $python3 Assembler.py input_assembly_code_file_path output_machine_code_f
 2. Place this file inside the already created SimpleAssembler folder.
 For linux users: $python3 src/main.py --no-sim --linux
 For windows user: >python3 src\main.py --no-sim --windows
-
 
 
 Simulator must take a machine code file as input and produce a trace file as output.
