@@ -1,4 +1,4 @@
-# RISC-V-Assembler-and-Simulator
+# RISC-V-Assembler-and-Simulator-in a team of four IIITD students
 Implementation of a subset of RV32I (RISC-V 32-bit integer) instruction set using simple assembler and simulator.
 (This was a college group project)
 
